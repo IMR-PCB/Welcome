@@ -1,2 +1,2 @@
 # Welcome
-Welcome to follow the rehabilitation robotics team at IMR@SJTU!
+Welcome to follow our Perception, Cognition, and Behaviour (PCB) team at Insititute of Medical Robotis @ Shanghai Jiao Tong University!
